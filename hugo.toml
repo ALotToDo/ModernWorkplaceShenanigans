@@ -1,0 +1,25 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Modern Workplace Shenanigans"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+  
+[params]
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
