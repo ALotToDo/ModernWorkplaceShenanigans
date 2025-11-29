@@ -14,6 +14,11 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
 
+  [params.label]
+    text = "Modern Workplace Shenanigans"
+    icon = "/images/logo-mws.png"
+    iconHeight = 40
+
 [menu]
   [[menu.main]]
     name = "Home"
