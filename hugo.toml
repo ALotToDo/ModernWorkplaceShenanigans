@@ -17,7 +17,7 @@ theme = "PaperMod"
   [params.label]
     text = "Modern Workplace Shenanigans"
     icon = "/ModernWorkplaceShenanigans/images/logo-mws.png"
-    iconHeight = 40
+    iconHeight = 70
 
 [menu]
   [[menu.main]]
